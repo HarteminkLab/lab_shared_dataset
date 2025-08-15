@@ -26,7 +26,7 @@ final file for abf1 has like 500 sites. Which is good enough I guess
 
 so.... there is a python script for it. then a batch script to submit the python script as a job
 
-I ran it for all of the TFs available in the supplementary-data-4-210306.xlsx
+I ran it for all of the TFs available in the supplementary-data-4-210306.xlsx that is provided in the datacommon link from above
 
 
 BAM DONE! Push to github and call it a day! 
