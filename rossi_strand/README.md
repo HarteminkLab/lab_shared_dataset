@@ -1,4 +1,4 @@
-Okay!! This is what Nhat and Trung did to generate these files that have Rossi Strand info
+Okay!! This is what **Nhat** and **Trung** did to generate these files that have Rossi Strand info
 
 
 Basically in the Rossi chexmix repo, there are peak calls for most TFs but no strand info associated
