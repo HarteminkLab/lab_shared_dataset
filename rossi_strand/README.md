@@ -36,6 +36,6 @@ BAM DONE! Push to github and call it a day!
 
 Work done on Aug 14th by Nhat and Trung
 
-If you use this info, you owe us coffee :) 
+**If you use this info, you owe us coffee :)**
 
 
